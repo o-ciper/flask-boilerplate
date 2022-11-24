@@ -4,9 +4,6 @@ FLASK_DEBUG=True
 FLASK_RUN_HOST=0.0.0.0
 # FLASK_RUN_PORT=5000
 
-# DATABASE_URL=postgresql://fxg:fxg-SATELLITE@localhost/CS50
-# DATABASE_URL=postgresql://fxg:fxg-SATELLITE@localhost/cs50_2
-
 ## Available flask config. variables:
 # FLASK_APP
 # FLASK_ENV
